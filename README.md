@@ -5,7 +5,7 @@ A Neural Net based Projector Color Compensation Method for Non-white surface
 
 
 ## 1. Paper
-http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4050026734926
+https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07368522
 
 
 ## 2. 색 보정을 위한 데이터 추출 방식 
