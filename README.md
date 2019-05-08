@@ -1,10 +1,11 @@
 # Image-Compensation
 유색 벽에 프로젝션하기 적합한 신경망 기반 이미지 보정
 
-Neural Network-based Image Compensation suitable for Projection onto a Colored Wall
+A Neural Net based Projector Color Compensation Method for Non-white surface
+
 
 ## 1. Paper
-http://jse.or.kr/AJMAHS/papers/v8n8/81.pdf
+http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4050026734926
 
 
 ## 2. 색 보정을 위한 데이터 추출 방식 
